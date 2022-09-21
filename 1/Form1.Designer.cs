@@ -34,7 +34,7 @@ namespace _1
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(347, 187);
+            this.button1.Location = new System.Drawing.Point(416, 176);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 0;
@@ -46,8 +46,8 @@ namespace _1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.ClientSize = new System.Drawing.Size(896, 374);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Form1";
